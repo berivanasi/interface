@@ -1,0 +1,14 @@
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\bin\Debug\netcoreapp3.1\ConsoleAppodev_1.exe
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\bin\Debug\netcoreapp3.1\ConsoleAppodev_1.deps.json
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\bin\Debug\netcoreapp3.1\ConsoleAppodev_1.runtimeconfig.json
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\bin\Debug\netcoreapp3.1\ConsoleAppodev_1.runtimeconfig.dev.json
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\bin\Debug\netcoreapp3.1\ConsoleAppodev_1.dll
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\bin\Debug\netcoreapp3.1\ConsoleAppodev_1.pdb
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.AssemblyInfo.cs
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.dll
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.pdb
+C:\Users\90553\source\repos\Interface,Abstrac_proje\ConsoleAppodev_1\obj\Debug\netcoreapp3.1\ConsoleAppodev_1.genruntimeconfig.cache
